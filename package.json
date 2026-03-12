@@ -64,7 +64,8 @@
     "ytdl-core": "^4.11.5"
   },
   "overrides": {
-    "jimp": "^1.6.0"
+    "jimp": "^1.6.0",
+    "sharp": "npm:jimp@^1.6.0"
   },
   "engines": {
     "node": "18.x"
