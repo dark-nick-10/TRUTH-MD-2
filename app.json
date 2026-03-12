@@ -2,9 +2,13 @@
   "name": "TRUTH MD",
   "description": "TRUTH MD WhatsApp Bot by Courtney",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
-  "keywords": ["whatsapp", "bot", "baileys", "node"],
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "node"
+  ],
   "repository": "https://github.com/Courtney250/TRUTH-MD",
-  "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Your WhatsApp session ID (must start with TRUTH-MD:~)",
