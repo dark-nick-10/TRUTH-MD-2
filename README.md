@@ -1,6 +1,6 @@
 # TRUTH MD
 
-<img src="https://i.ibb.co/nswZ9WcB/upload-1770456482848-a76a1a20-jpg.jpg" width="640" align="right"/>
+<img src="https://files.catbox.moe/evpvot.jpg" width="640" align="right"/>
 
 Advanced WhatsApp bot with premium features.
 
