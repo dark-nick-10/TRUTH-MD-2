@@ -12,7 +12,7 @@
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@replit/connectors-sdk": "^0.3.0",
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@whiskeysockets/baileys": "^6.7.18",
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^5.11.0",
     "axios": "^1.13.6",
