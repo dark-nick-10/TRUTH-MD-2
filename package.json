@@ -11,11 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@replit/connectors-sdk": "^0.3.0",
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@whiskeysockets/baileys": "7.0.0-rc.9",
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^5.11.0",
     "axios": "^1.13.6",
+    "better-sqlite3": "^9.6.0",
     "chalk": "^4.1.2",
     "dotenv": "^16.6.1",
     "express": "^5.2.1",
@@ -36,11 +36,12 @@
     "pino": "^8.21.0",
     "ruhend-scraper": "^8.3.0",
     "sharp": "^0.32.6",
+    "sqlite3": "^6.0.1",
     "ws": "^8.19.0",
     "yt-search": "^2.13.1",
     "ytdl-core": "^4.11.5"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=20.x"
   }
 }
