@@ -18,7 +18,7 @@
 
 <br/>
 
-<a href="https://github.com/Courtney250/TRUTH-MD/fork">
+<a href="">
   <img src="https://img.shields.io/badge/FORK%20REPO-FF69B4?style=for-the-badge&logo=github&logoColor=FFD700" height="100"/>
 </a>
 <br/><strong>FORK REPOSITORY</strong>
