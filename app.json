@@ -1,11 +1,11 @@
 {
   "name": "TRUTH-MD",
   "description": "TRUTH MD WhatsApp Bot",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "logo": "",
   "keywords": [
     "whatsapp-bot"
   ],
-  "repository": "https://github.com/Courtney250/TRUTH-MD",
+  "repository": "",
   "stack": "container",
   "env": {
     "SESSION_ID": {
